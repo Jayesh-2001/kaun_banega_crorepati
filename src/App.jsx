@@ -96,7 +96,7 @@ function App() {
             { id: 12, amount: "$ 125.000" },
             { id: 13, amount: "$ 250.000" },
             { id: 14, amount: "$ 500.000" },
-            { id: 15, amount: "$ 1.000.000" },
+            { id: 15, amount: "$ 3.000.000" },
          ].reverse(),
       []
    );
